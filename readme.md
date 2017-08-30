@@ -1,3 +1,5 @@
+[![obsolete JetBrains project](http://jb.gg/badges/obsolete-flat-square.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
+
 # Sample Patterns for ReSharper
 
 This repository contains a set of sample Structural Search and Replace (SSR) patterns for ReSharper 8 and 9.0 (9.1 will be added after 9.1 has been released). SSR patterns allow you to declaratively add warnings and highlights to ReSharper's code analysis.
